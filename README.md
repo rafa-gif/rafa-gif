@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Rafael Souza 👋
 
-- 🌱 Estou estudando atualmente Analise e Desenvolvimento de Sistemas
+- 🌱 Estou estudando atualmente Analise e Desenvolvimento de Sistemas.
+- 🐱‍👤 Fazendo projetos em HTML5 | CSS3 |
 
 <div align="center">
   <a href="https://github.com/rafa-gif">
